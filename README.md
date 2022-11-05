@@ -1,2 +1,0 @@
-- {"name":"_01 |27.39Mb","server":"167.88.61.50","type":"ss","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
-- {"name":"_02 | 5.44Mb","server":"217.138.193.10","type":"ss","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
